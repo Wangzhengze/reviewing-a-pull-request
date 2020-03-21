@@ -15,4 +15,5 @@ You can play the game at: https://githubschool.github.io/github-games/
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
-This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
+这个有趣的开源游戏是从以下网站克隆的：https : //github.com/jakesgordon/javascript-tetris
+e
